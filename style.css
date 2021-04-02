@@ -98,7 +98,7 @@ a:hover {
 }
 
 .button {
-  padding: 4px 24px;
+  padding: 4px 16px;
   height: 28px;
   color: #0A84FF;
   border-radius: 14px;
@@ -180,6 +180,11 @@ p {
   line-height: 24px;
   /* color: rgba(255, 255, 255, 0.8); */
 }
+
+p.small {
+  font-size: 14px;
+}
+
 ul li {
   margin-bottom: 32px;
   display: flex;
